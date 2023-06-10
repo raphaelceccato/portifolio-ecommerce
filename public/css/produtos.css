@@ -1,0 +1,43 @@
+.menu {
+    width: 220px;
+}
+
+
+.card {
+    width: 170px;
+    height: 265px;
+}
+
+.product-img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    height: 83px;
+}
+
+.card-title {
+    font-size: 15px;
+}
+
+
+.list-group .active {
+    --bs-list-group-active-bg: rgb(25, 135, 84);
+    --bs-list-group-active-border-color: rgb(25, 135, 84);
+    --bs-list-group-action-active-bg: rgb(25, 135, 84);
+}
+
+
+@media (max-width: 767px) { /* sm breakpoint on bootstrap */
+    .card {
+        width: 170px;
+        height: 265px;
+    }
+
+    .card img, .card a {
+        height: 83px;
+    }
+
+    .card-title {
+        font-size: 15px;
+    }
+}
