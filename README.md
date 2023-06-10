@@ -27,7 +27,7 @@ To see the website in action, click here (link unavailable at the moment).
 To see other projects, visit my portfolio located at [raphaelceccato.github.io](http://raphaelceccato.github.io)
 
 
-
+------------------
 
 
 ## Introdução
