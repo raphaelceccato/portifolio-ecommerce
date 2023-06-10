@@ -23,4 +23,4 @@ Para ver o site em funcionamento, clique aqui (link indisponível no momento)
 4. Execute o arquivo ```app.js``` e, no navegador, vá para o endereço ```http://127.0.0.1:8085```
 
 ## Ver mais
-Para ver outros projetos, acesse meu portifólio em raphaelceccato.github.io
+Para ver outros projetos, acesse meu portifólio em [raphaelceccato.github.io](raphaelceccato.github.io)
