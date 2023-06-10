@@ -2,8 +2,8 @@
 (texto em português abaixo)
 
 ## Introduction
-This project is part of my programming portfolio. It consists of a demonstration of an e-commerce website that loads products from a database and dynamically displays them to the user.
-Some features present on the site include product search, filtering by categories, and adding/removing products from the shopping cart.
+This project is part of my programming portfolio. It consists of an e-commerce website that loads products from a database and dynamically displays them to the user.
+Some features present on the site include product searching, filtering by categories, and adding/removing products from the shopping cart.
 
 
 The main tools used in this project are:
