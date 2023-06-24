@@ -19,7 +19,7 @@ To see the website in action, click here (link unavailable at the moment).
 1. Make sure you have Node and MySQL installed.
 2. After cloning the repository, open a terminal window and type the following command:
 ```npm install```
-3. Create a database in MySQL using the ```database.db```file
+3. Create a database in MySQL using the ```database.db``` file
 4. Conigure the MySQL connection in the ```utils/database.js``` file`.
 5. Run ```app.js``` and, inside a web browser, go to ```http://127.0.0.1:8085```
 
