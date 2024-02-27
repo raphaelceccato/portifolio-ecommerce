@@ -13,7 +13,7 @@ The main tools used in this project are:
 - Bootstrap
 
 ## Online demo
-To see the website in action, click here (link unavailable at the moment).
+To see the website in action, [click here](http://vps41095.publiccloud.com.br:8085/produtos).
 
 ## Running locally
 1. Make sure you have Node and MySQL installed.
@@ -42,7 +42,7 @@ As principais ferramentas utilizadas neste projeto são:
 - Bootstrap
 
 ## Demonstração online
-Para ver o site em funcionamento, clique aqui (link indisponível no momento)
+Para ver o site em funcionamento, [clique aqui](http://vps41095.publiccloud.com.br:8085/produtos).
 
 ## Rodando a partir do código
 1. Certifique-se de ter o Node e o MySQL instalados.
